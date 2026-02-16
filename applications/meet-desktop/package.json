@@ -62,6 +62,7 @@
         "@electron/fuses": "^1.7.0",
         "@proton/i18n": "workspace:^",
         "@proton/types": "workspace:^",
+        "@types/global-types-monorepo": "workspace:^",
         "@sentry/electron": "^5.12.0",
         "@types/jest": "^30.0.0",
         "@types/lodash": "^4.17.23",
